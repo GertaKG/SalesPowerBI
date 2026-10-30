@@ -1,0 +1,47 @@
+Sales Performance Dashboard | Power BI 
+
+Overview 
+
+This project is an interactive sales dashboard developed as part of the 365 Data Science Power BI course taught by Dimitar Shutev. 
+
+The dashboard helps a sales team monitor performance, understand monthly changes, and explore sales across currencies, users, and sales territories. 
+
+Business Questions :
+
+How does sales performance change from month to month? 
+
+How do sales results compare across currencies? 
+
+How does performance vary by user and sales territory? 
+
+Dashboard Features :
+
+Sales performance overview. 
+
+Month-on-month sales analysis. 
+
+Currency selection and comparison. 
+
+Interactive filtering by user, currency, and sales territory. 
+
+Tools and Skills: 
+
+Microsoft Power BI Desktop. 
+
+Data visualization and interactive report design. 
+
+Sales performance analysis. 
+
+How to View 
+
+Download the Power BI report (.pbix) from this repository. 
+
+Open it in  Microsoft Power BI Desktop. 
+
+Use the dashboard filters to explore sales performance. 
+
+Acknowledgment 
+
+This is a guided learning project based on the 365 Data Science Power BI course. 
+
+ 
